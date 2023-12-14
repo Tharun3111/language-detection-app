@@ -1,6 +1,6 @@
 # Language Detector
 
-### Link for dataset : https://www.kaggle.com/datasets/basilb2s/language-detection
+### Local deployment : http://127.0.0.1:5000/
 
 ### This is a language detector model which can predict 17 different languages.
 
